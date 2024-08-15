@@ -7,3 +7,4 @@ Minecraft javaEditin serverのワールドデータバックアップ用です
 使用パッケージ　GitPython,schedule
 
 動作は保証しません
+2は適当なのでより動作は保証しません
